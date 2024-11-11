@@ -9,5 +9,5 @@ int main(){
 		fct = fct * i;
 	}
 	printf("%d\n", fct);
-	return 0;
+	
 }
